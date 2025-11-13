@@ -1,0 +1,32 @@
+{
+  "name": "@bu0nq/workspace.frontend.config.postcss",
+  "type": "module",
+  "version": "0.1.0",
+  "keywords": [
+    "workspace",
+    "frontend",
+    "config",
+    "postcss"
+  ],
+  "main": "index.js",
+  "devDependencies": {
+    "postcss-preset-env": "^10.4.0",
+    "postcss-pxtorem": "^6.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bu0nq/workspace.frontend.config.postcss.git"
+  },
+  "author": {
+    "name": "bu0nq",
+    "email": "hello@bu0nq.ru"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bu0nq/workspace.frontend.config.postcss/issues"
+  },
+  "homepage": "https://github.com/bu0nq/workspace.frontend.config.postcss#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
