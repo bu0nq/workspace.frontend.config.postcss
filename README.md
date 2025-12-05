@@ -1,1 +1,1 @@
-# Workspace.FrontEnd.Config.Stylelint
+# Workspace.FrontEnd.Config.PostCss
